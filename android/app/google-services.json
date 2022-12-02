@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "29419941154",
+    "project_id": "okr-generator",
+    "storage_bucket": "okr-generator.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:29419941154:android:9f3d0baa77a97b098ec97b",
+        "android_client_info": {
+          "package_name": "com.example.okr_generator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "29419941154-tvqf3nigbtmqfaub8k65v8kfg586frm4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACXHgrSOKYMnJe3BM5Ok1bLMnDtEMQzoU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "29419941154-tvqf3nigbtmqfaub8k65v8kfg586frm4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
